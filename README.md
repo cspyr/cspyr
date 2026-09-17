@@ -1,8 +1,3 @@
 ## Heyy
 
-  Hi im cspyr, im a new developer that mainly specialises in backend for Roblox games(🤓). 
-
-  
-  ╰┈➤ I can code in C++, Java, HTML5, CSS, JS, Luau/Lua and Python.
-      ╰┈➤ I'm currently learning C# and Rust.
-
+  Hi im cspyr, im a developer that mainly specialises in backend for Roblox games(🤓) and discord bots. I love F1, Rick and Morty, The Pitt and coding (obviously). 
